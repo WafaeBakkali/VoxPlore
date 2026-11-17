@@ -2,7 +2,7 @@
 
 Author: [Wafae Bakkali](https://www.linkedin.com/in/wafae-bakkali/)
 
-Push.VoxPlore is an interactive system for exploring a subject by talking, whether a concept to learn, a place to discover or a research paper to understand. It brings the generation of images, video and interactive scenes into a live spoken conversation, driven by voice. While a live model talks with the user through an avatar, background models generate images and videos and write the code of interactive 3D scenes and simulations, which run on a stage beside the conversation. The conversation never pauses for the generation, and the system observes how the user operates what was generated and feeds it back into the conversation.
+VoxPlore is an interactive system for exploring a subject by talking, whether a concept to learn, a place to discover or a research paper to understand. It brings the generation of images, video and interactive scenes into a live spoken conversation, driven by voice. While a live model talks with the user through an avatar, background models generate images and videos and write the code of interactive 3D scenes and simulations, which run on a stage beside the conversation. The conversation never pauses for the generation, and the system observes how the user operates what was generated and feeds it back into the conversation.
 
 ## Contributions
 
